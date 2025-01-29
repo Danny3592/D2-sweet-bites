@@ -1,4 +1,42 @@
 {
+  "users": [
+    {
+      "email": "Jay@gmail.com",
+      "password": "$2a$10$jTC74FPpbnDD22ZPt1dUH.003mgaUp8rixMFaxMXQXaVz0poSxssq",
+      "username": "Jay",
+      "role": [
+        "admin"
+      ],
+      "id": 1
+    },
+    {
+      "email": "johnny@gmail.com",
+      "password": "$2a$10$xMA05aA8Zgz2UZkybdo04..xlDr3Pe0En/MhPlSaNQ1y.R149MxCG",
+      "username": "Johnny",
+      "role": [
+        "admin"
+      ],
+      "id": 2
+    },
+    {
+      "email": "kattie@gmail.com",
+      "password": "$2a$10$KxTj148S6MGSzHIHoNRk3eJpLApTeVwMToFQFV1UVrj7LPmZrzT4O",
+      "username": "kattie",
+      "role": [
+        "admin"
+      ],
+      "id": 3
+    },
+    {
+      "email": "Jin@gmail.com",
+      "password": "$2a$10$VTq5z8ChSPnpVsP/pdVmSO0hlb5rUIPy09EC88kDRtQnt75cGBL2O",
+      "username": "Jin",
+      "role": [
+        "admin"
+      ],
+      "id": 4
+    }
+  ],
   "products": [
     {
       "id": 1,
@@ -13,7 +51,10 @@
       "stock": 10,
       "status": "上架中",
       "imageUrl": "圖片主要網址",
-      "imagesUrl": ["圖片網址", "圖片網址"]
+      "imagesUrl": [
+        "圖片網址",
+        "圖片網址"
+      ]
     },
     {
       "id": 2,
@@ -28,7 +69,10 @@
       "stock": 2,
       "status": "上架中",
       "imageUrl": "圖片主要網址",
-      "imagesUrl": ["圖片網址", "圖片網址"]
+      "imagesUrl": [
+        "圖片網址",
+        "圖片網址"
+      ]
     },
     {
       "id": 3,
@@ -43,7 +87,10 @@
       "stock": 10,
       "status": "上架中",
       "imageUrl": "圖片主要網址",
-      "imagesUrl": ["圖片網址", "圖片網址"]
+      "imagesUrl": [
+        "圖片網址",
+        "圖片網址"
+      ]
     },
     {
       "id": 4,
@@ -58,7 +105,10 @@
       "stock": 10,
       "status": "上架中",
       "imageUrl": "圖片主要網址",
-      "imagesUrl": ["圖片網址", "圖片網址"]
+      "imagesUrl": [
+        "圖片網址",
+        "圖片網址"
+      ]
     },
     {
       "id": 5,
@@ -73,7 +123,10 @@
       "stock": 10,
       "status": "上架中",
       "imageUrl": "圖片主要網址",
-      "imagesUrl": ["圖片網址", "圖片網址"]
+      "imagesUrl": [
+        "圖片網址",
+        "圖片網址"
+      ]
     },
     {
       "id": 6,
@@ -88,7 +141,10 @@
       "stock": 0,
       "status": "下架",
       "imageUrl": "圖片主要網址",
-      "imagesUrl": ["圖片網址", "圖片網址"]
+      "imagesUrl": [
+        "圖片網址",
+        "圖片網址"
+      ]
     },
     {
       "id": 7,
@@ -103,7 +159,10 @@
       "stock": 0,
       "status": "即將推出",
       "imageUrl": "圖片主要網址",
-      "imagesUrl": ["圖片網址", "圖片網址"]
+      "imagesUrl": [
+        "圖片網址",
+        "圖片網址"
+      ]
     },
     {
       "id": 8,
@@ -118,7 +177,10 @@
       "stock": 0,
       "status": "告罄",
       "imageUrl": "圖片主要網址",
-      "imagesUrl": ["圖片網址", "圖片網址"]
+      "imagesUrl": [
+        "圖片網址",
+        "圖片網址"
+      ]
     }
   ]
 }
